@@ -56,3 +56,7 @@ body {
 .skill-stack {
     background: var(--bg-surface);
 }
+
+.footer{
+    background:rgba(11, 16, 32, 0.9) !important;
+}
