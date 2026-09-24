@@ -15,7 +15,7 @@
 body {
   background: var(--bg-body);
   color: var(--text-light);
-  padding-top: 76px;
+  padding-top: 26px;
 }
 
 .portfolio-navbar {
